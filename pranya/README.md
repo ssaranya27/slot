@@ -24,8 +24,7 @@ Add your timetable using ```<td>``` tag.
 ### STEP 6
 Execute the program using runserver command.
 
-## PROGRAM
-
+## PROGRAM:
 ```
 html>
     <head>
@@ -137,7 +136,6 @@ html>
     <td>19MS154</td>
     <td>Basic Financial Accounting</td>
 </tr>
-
 </html>
 ```
 
